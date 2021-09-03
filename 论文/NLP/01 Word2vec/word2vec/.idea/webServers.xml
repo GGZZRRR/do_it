@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a09aad92-00f6-48a4-882c-55c371d8c720" name="gpu_40" url="http://qcloud.gregchan.cn">
+        <fileTransfer accessType="SFTP" host="ssh.featurize.cn" port="25980" sshConfigId="5c45388e-2742-404c-96ca-eb77d224a1ed" sshConfig="gpu_40">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="1c5ba4c3-e99f-41b5-9ff9-f7b0ec50d67d" name="cur">
+        <fileTransfer accessType="SFTP" host="ssh.featurize.cn" port="25980" sshConfigId="5c45388e-2742-404c-96ca-eb77d224a1ed" sshConfig="gpu_40">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

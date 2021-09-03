@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="ssh.featurize.cn" id="5c45388e-2742-404c-96ca-eb77d224a1ed" port="25980" customName="gpu_40" nameFormat="CUSTOM" username="featurize">
+        <option name="customName" value="gpu_40" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
